@@ -1,7 +1,9 @@
 # Compact Bilinear Pooling implemented using TF2.0
 This repository contains the TF2.0 implementation of Compact Bilinear Pooling using Random Maclaurin (RM) approximation method.
 To understand more theoretical details, please refer to the paper of Yang Gao, et al. [1]
-class compact_bilinear_pooling(Model):
+
+    
+    class compact_bilinear_pooling(Model):
 	"""
 	A fast implementation of compact bilinear pooling layer/operation based on Random Maclaurin (RM) method to approximate the polynomial kernel. 
 	Build a compact bilinear pooling (CBP) layer to compute CBP results of convoluted feature maps.
@@ -13,7 +15,6 @@ class compact_bilinear_pooling(Model):
     Returns:
     	x: compact bilinear pooled feature vectors with dimension d (equivalent to project_dim)
 	"""
-    
     def __init__(self, channel_num, project_dim):
 
     def call(self, inputs):
