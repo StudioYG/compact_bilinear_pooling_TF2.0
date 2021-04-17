@@ -20,4 +20,7 @@ To understand more theoretical details, please refer to the paper of Yang Gao, e
         
         return x
 
-Reference: [1] Yang Gao, et al. "Compact Bilinear Pooling." in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (2016).
+
+Reference: 
+
+[1] Yang Gao, et al. "Compact Bilinear Pooling." in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (2016).
