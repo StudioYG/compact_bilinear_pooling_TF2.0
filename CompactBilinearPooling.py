@@ -1,3 +1,7 @@
+import numpy as np
+import tensorflow as tf
+from tensorflow.keras.models import Model
+
 class compact_bilinear_pooling(Model):
 	"""
 	A fast implementation of compact bilinear pooling [1] layer/operation based on Random Maclaurin (RM) method [2] to approximate the polynomial kernel. 
