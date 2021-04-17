@@ -5,7 +5,7 @@ To understand more theoretical details, please refer to the paper of Yang Gao, e
     
     class compact_bilinear_pooling(Model):
 	"""
-	A fast implementation of compact bilinear pooling layer/operation based on Random Maclaurin (RM) method to approximate the polynomial kernel. 
+	A fast implementation of compact bilinear pooling layer/operation based on Random Maclaurin (RM) method [2] to approximate the polynomial kernel. 
 	Build a compact bilinear pooling (CBP) layer to compute CBP results of convoluted feature maps.
 	
     Args:
