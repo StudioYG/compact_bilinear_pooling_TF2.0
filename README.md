@@ -23,4 +23,5 @@ To understand more theoretical details, please refer to the paper of Yang Gao, e
 
 Reference: 
 
-[1] Yang Gao, et al. "Compact Bilinear Pooling." in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (2016).
+[1] Gao, Y., Beijbom, O., Zhang, N. and Darrell, T., 2016. Compact Bilinear Pooling. In: IEEE Conference on Computer Vision and Pattern Recognition (CVPR). IEEE.
+[2] 
