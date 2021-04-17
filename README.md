@@ -2,8 +2,6 @@
 This repository encompasses the TF2.0 implementation of Compact Bilinear Pooling using Random Maclaurin (RM) approximation method.
 To understand more theoretical details, please refer to the paper of Yang Gao, et al. [1]
 
-Reference: [1] Yang Gao, et al. "Compact Bilinear Pooling." in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (2016).
-
     
     class compact_bilinear_pooling(Model):
 	"""
@@ -21,3 +19,5 @@ Reference: [1] Yang Gao, et al. "Compact Bilinear Pooling." in Proceedings of IE
     	def call(self, inputs):
         
         return x
+
+Reference: [1] Yang Gao, et al. "Compact Bilinear Pooling." in Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (2016).
