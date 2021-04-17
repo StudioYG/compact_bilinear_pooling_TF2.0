@@ -18,7 +18,7 @@ To understand more theoretical details, please refer to the paper of Yang Gao, e
 
     	def call(self, inputs):
         
-        return x
+			return x
 
 
 Reference: 
