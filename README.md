@@ -24,4 +24,4 @@ To understand more theoretical details, please refer to the paper of Yang Gao, e
 Reference: 
 
 [1] Gao, Y., Beijbom, O., Zhang, N. and Darrell, T., 2016. Compact Bilinear Pooling. In: IEEE Conference on Computer Vision and Pattern Recognition (CVPR). IEEE.
-[2] 
+[2] Kar, P. and Karnick, H., 2012. Random Feature Maps for Dot Product Kernels. In: Proceedings of the Fifteenth International Conference on Artificial Intelligence and Statistics. PMLR.
